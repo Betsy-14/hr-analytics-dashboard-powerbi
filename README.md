@@ -36,6 +36,7 @@ Staff_Records - 65 employees, with the following fields:
 - Performance_Level (Excellent/ Good/ Needs Improvement
 - Training_Hours_2024
 - Exit_Status(Active/Exited)
+  
 Grade_Scale with the following fields:
 - Job_Grade
 - Grade_Label
