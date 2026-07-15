@@ -50,6 +50,7 @@ Grade_Scale with the following fields:
 - Exploratory-Analysis-SQL
 - Data-Modeling-&-DAX-PowerBI
 - Dashboard-Design-PowerBI
+- 
 Modeling approach: Built a dedicated Measures table with custom DAX rather than relying on default field aggregations, inluding calculated tenure bands, gender pay gap %, and performance-linked retention metrics.
 # Dashboard Pages
 1. Workforce Composition
