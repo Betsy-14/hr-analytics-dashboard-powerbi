@@ -68,13 +68,6 @@ Average salary broken down by grade, department, location, tenure band, and perf
 - Trimmed each dashboard page to 4-5 visuals, cutting charts that were redundant with others already on the page (e.g a department by grade matrix that restated existing bar charts).
 - Renamed ambiguous fields for clarity (e.g., "Exhausted Rate %" -> "Leave-Utilization-Rate %") to ensure a first-time viewer could interpret every KPI without additional explanation.
 # Repository Structure
-HR-Analytics-Dashboard/
-|
-|___Dataset/
-|___SQL Queries/
-|___PowerBI Dashboard/
-|   |__HR_Analytics_Dashboard.pbix
-|___Screenshots/
-| __README.md
+HR-Analytics-Dashboard/Dataset/SQL Queries/PowerBI Dashboard/HR_Analytics_Dashboard.pbix/Screenshots/README.md
 # Skills Demonstrated
 Data Cleaning - SQL - Data Modeling -DAX - KPI Design - Dashboard Storytelling - Pay Equity Analysis
