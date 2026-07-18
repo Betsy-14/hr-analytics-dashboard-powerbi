@@ -55,10 +55,10 @@ Modeling approach: Built a dedicated Measures table with custom DAX rather than 
 # Dashboard Pages
 ### 1. Workforce & Wellbeing Snapshot
 Headline KPIs: total-headcount, attrition-rate, average-salary, leave-utilization-rate. Includes a department headcount breakdown and a pay equity summary table.
-![Workforce Snapshot](Screenshots/page1-workforce-snapshot.png)
+![Workforce Snapshot](Screenshots/page1-snapshot.png)
 ### 2. Workforce Composition
 Headcount distribution across department, grade, and location, plus a hiring trend line showing headcount growth over time.
-![Workforce Composition](Screenshots/page2-workforce-composition.png)
+![Workforce Composition](Screenshots/page2-composition.png)
 ### 3. Pay Equity
 Average salary broken down by grade, department, location, tenure band, and performance level - testing whether compensation is consistently and fairly structured.
 ![Pay Equity](Screenshots/page3-pay-equity.png) 
