@@ -53,12 +53,15 @@ Grade_Scale with the following fields:
  
 Modeling approach: Built a dedicated Measures table with custom DAX rather than relying on default field aggregations, inluding calculated tenure bands, gender pay gap %, and performance-linked retention metrics.
 # Dashboard Pages
-1. Workforce Composition
+### 1. Workforce & Wellbeing Snapshot
 Headline KPIs: total-headcount, attrition-rate, average-salary, leave-utilization-rate. Includes a department headcount breakdown and a pay equity summary table.
-2. Workforce Composition
+![Workforce Snapshot](Screenshots/page1-snapshot.png)
+### 2. Workforce Composition
 Headcount distribution across department, grade, and location, plus a hiring trend line showing headcount growth over time.
-3. Pay Equity
+![Workforce Composition](Screenshots/page2-composition.png)
+### 3. Pay Equity
 Average salary broken down by grade, department, location, tenure band, and performance level - testing whether compensation is consistently and fairly structured.
+![Pay Equity](Screenshots/page3-pay-equity.png) 
 # Key Findings
 - Attrition-Rate: 3% (2 of 65 employees) - retention is strong, including 0% exit rate among "Excellent" performers.
 - Gender-Pay-Gap: 0.04% at the aggregate level, and consistently near-zero when checked by grade and by grade + tenure band - indicating genuine pay equity rather than an average masking hidden gaps.
